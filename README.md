@@ -1,7 +1,7 @@
 # Gaussian-Discriminant-Analysis
 Gaussian Discriminant Analysis introduction and Python implementation from scratch
 
-Implementation is in GaussianDiscriminantAnalysis.py. Application of the algorithm and a formal introduction to the algorithm provided in GaussianDiscriminantAnalysis.ipynb. Some equations are broken. Will fix soon.
+You can learn about mathematical background of the algorithms in GaussianDiscriminantAnalysisApplication.pdf. Implementation is in GaussianDiscriminantAnalysis.py. Applications of the algorithm to the real data are provided in GaussianDiscriminantAnalysis.ipynb.
 
 ## Contributors
 [Şafak Bilici](https://github.com/safakkbilici)
